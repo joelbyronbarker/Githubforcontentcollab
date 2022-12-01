@@ -10,7 +10,7 @@ https://www.cos.io/blog/5-ways-to-optimize-your-research-workflow-with-osf
 Acknowledged: GitHub was built for code. English language is not what it was meant to hold, though that is confusing to people who see them both as strings of characters.
 
 ## Notable differences between code writing and English language writing mindsets:
-* What is a softwrap or a line return? Most coding languages ignore line breaks so coders simply put them in for readability. English cares, and in fact has the idea of a **paragraph** which is a subjective division of topics that is necessary for readability and a serious consideration when composing. Otherwise, English needs to wrap as whatever layout tool allows it do. Frequently in our digital world it needs to vary based on the screen it is read upon.
+* What is a softwrap or a line return? Most coding languages ignore line breaks so coders simply put them in for readability. English cares, and in fact has the idea of a **paragraph** which is a subjective division of topics that is necessary for readability and a serious consideration when composing. Otherwise, English needs to wrap as whatever layout tool allows it do. Frequently in our digital world it needs to vary based on the screen it is read upon. Right now I (JBB) am writing in a screen that just keeps scrolling to accomodate my writing. It is hard to think about writing because the interface is disorienting.
 * Multiple spaces together in English is almost always an error. It is information and direction to many programming languages.
 * Code has absolute meaning. Human languages have highly fungible meaning.
 * {more could be added here}
@@ -19,17 +19,17 @@ That said,
 ## there are reasons that applying the tools for one to the other makes sense
 Code revisions are similar to text edits in some ways.
 * We need reviewers to catch syntax errors and typos. Nobody is perfect and we need process that does not expect us to be.
-* We need to track drafts and drive to approval so we can launch. Content assets and programs have value only when the get read or run.
+* We need to track drafts and drive to approval so we can launch. Content assets and programs have value when the get read or run.
 * The fundamental thing reviewers do is to apply their unique or delegated expertise. 
 	* For example in content marketing writing (just one type of language writing collaboration) We might need a project manager, a subject matter expert, and a marketing strategist to all agree that what we say works for the objective. They either 
 		* make changes to actual characters on the screen (in which case we need to **track changes**).
 		* make comments on a particular character or group of characters requesting a change (in which case we need to **create and comments**).
 	* {Something about what code revisions do and why we need certain features}
 
-So, they are not the same but could benefit from what each other needs. 
+So, code and human language are not the same but could benefit from what each other needs. 
 
 ## Some ideas of how to embrace the collision as the metaphors mix
 Git pull requests are on an _issue_. Reviews are more of a _session_ that cover several issues. In writing like to have as few passes as possible by reviewers — out of respect for people’s time.
 
-Can we train people to make each _issue_ a pull request instead of making a _session review_? JBB hates asking for more complex tasks by reviewers. We get the best from them when they are as comfortable with the tools as possible. Wondering “am I doing this technically correct” is not going to get great input.
+Can we train people to make each _issue_ a pull request instead of making a _session review_? JBB hates asking for more complex tasks by reviewers. We get the best from them when they are as comfortable with the tools as possible. Wondering “am I doing this technically correct” is not going to get the best input.
 
